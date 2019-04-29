@@ -1,0 +1,2 @@
+<!--index/index.wxml-->
+<image class='upload' src='{{img_src || "../utils/icon.png"}}' bindtap='clickUpload'></image>
